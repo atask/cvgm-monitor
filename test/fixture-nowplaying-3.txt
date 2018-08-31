@@ -1,0 +1,44 @@
+<!-- nowplaying                    -->
+
+ <span class="songname"><a href="/demovibes/platform/97/"><img alt="Computer » PC (Windows - streaming and other)" class="platform_icon" src="/static/media/platform/symbol/platform_computer_pcstreamingwindowsgame.gif" title="Computer » PC (Windows - streaming and other)" /></a><a href="/demovibes/song/17601/">Lords of Magic - Air</a></span> by 
+    
+    <span class="artistname">
+         <img src="/static/user_green.png" alt="User" title="" />
+        
+        <a href="/demovibes/artist/1083/"
+         >
+         Keith Zizza</a>
+    </span>
+ 
+    
+<br />
+
+ Requested By: 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader, Dedicated Server' />
+            <a href="/demovibes/user/djrandom/" title="Staff" >djrandom</a>
+        </span>
+    <br />
+
+ 
+ 
+  Production Labels: <img alt="Label" class="label_icon" src="/static/transmit_blue.png" /><a href="/demovibes/label/257/">Impressions Games</a> <img alt="Label" class="label_icon" src="/static/media/labels/icons/Sierra_Logo_Small.png" /><a href="/demovibes/label/112/">Sierra on-line</a> <br />
+ 
+
+
+ 
+  
+        <a href="http://www.mobygames.com/game//game/lords-of-magic" target="_blank"><img class="song-resource" alt="Icon" src="/static/media/linkicons/ico_mobygames.png" title="[MobyGames]" /></a>
+    
+ <br />
+
+ <p>Time Left: <span data-name="counter" data-sec="199" data-inc="-1">4:12</span></p>
+
+
+
+
+<div id="screenshotview">
+ <a href="/demovibes/screenshot/1948/"><img src="/static/media/screenshot/thumb/Lords_of_Magic_PC_Box.jpg" alt="Lords of Magic Screenshot" border="0"></a><br />
+</div>
+
+Rating: <span id="songrating">5.00</span> (<span id="songrating_votes">2</span> Votes)<br />

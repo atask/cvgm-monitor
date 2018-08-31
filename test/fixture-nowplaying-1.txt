@@ -1,0 +1,45 @@
+<!-- nowplaying                    -->
+
+ <span class="songname"><a href="/demovibes/platform/33/"><img alt="Console » Neo Geo (AES / CD / MVS)" class="platform_icon" src="/static/media/platform/symbol/platform_console_neogeo.gif" title="Console » Neo Geo (AES / CD / MVS)" /></a><a href="/demovibes/song/15957/">Samurai Spirits - Shadow (Hanzo Hattori)</a>
+            <img class="text-link" src="/static/MiniIcon-Video.jpg" alt="Have video" title="Video!" /></span> by 
+    
+    <span class="artistname">
+         <img src='/static/flags/jp.png' class='countryflag' alt='flag' title='Japan (jp)' />
+        
+        <a href="/demovibes/artist/389/"
+         >
+         Shinsekai Gakkyoku Zatsugidan (SNK Sound Team)</a>
+    </span>
+ 
+    
+<br />
+
+ Requested By: 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader, Dedicated Server' />
+            <a href="/demovibes/user/djrandom/" title="Staff" >djrandom</a>
+        </span>
+    <br />
+
+ 
+ 
+  Production Labels: <img alt="Label" class="label_icon" src="/static/media/labels/icons/snk_logo.png" /><a href="/demovibes/label/91/">SNK</a> <br />
+ 
+
+
+ 
+  
+        <a href="http://vgmdb.net/album/1929" target="_blank"><img class="song-resource" alt="Icon" src="/static/media/linkicons/vgmdb_icon_1.gif" title="[VGMdb OST]" /></a>
+    
+ <br />
+
+ <p>Time Left: <span data-name="counter" data-sec="105" data-inc="-1">2:23</span></p>
+
+
+
+
+<div id="screenshotview">
+ <a href="/demovibes/screenshot/1701/"><img src="/static/media/screenshot/thumb/Samurai_Shodown_NG_Box_Screen.jpg" alt="Samurai Shodown (NG) Screenshot" border="0"></a><br />
+</div>
+
+Rating: <span id="songrating">3.00</span> (<span id="songrating_votes">5</span> Votes)<br />

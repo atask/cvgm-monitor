@@ -1,0 +1,32 @@
+{
+  "name": "cvgm-monitor",
+  "version": "0.0.0",
+  "description": "cvgm.net monitor for node",
+  "main": "monitor.js",
+  "scripts": {
+    "lint": "standard monitor.js test/monitor.spec.js",
+    "test": "tap test/monitor.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atask/cvgm-monitor.git"
+  },
+  "author": "Allan Taschini <allan.taschini@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/atask/cvgm-monitor/issues"
+  },
+  "homepage": "https://github.com/atask/cvgm-monitor#readme",
+  "dependencies": {
+    "capitalize": "^1.0.0",
+    "cheerio": "^1.0.0-rc.2",
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0",
+    "proxyquire": "^2.1.0",
+    "sinon": "^6.1.5",
+    "standard": "^12.0.1",
+    "tap": "^12.0.1"
+  }
+}

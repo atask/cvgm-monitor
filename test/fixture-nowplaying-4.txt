@@ -1,0 +1,36 @@
+<!-- nowplaying                    -->
+
+ <span class="songname"><a href="/demovibes/platform/16/"><img alt="Handheld » Game Boy" class="platform_icon" src="/static/media/platform/symbol/platform_handheld_gameboy_1.gif" title="Handheld » Game Boy" /></a><a href="/demovibes/song/11733/">Lullaby</a></span> by 
+    
+    <span class="artistname">
+         <img src='/static/flags/us.png' class='countryflag' alt='flag' title='United States (us), Richmond, VA' />
+        
+        <a href="/demovibes/artist/1370/"
+         >
+         Cuddlefish</a>
+    </span>
+ 
+    
+<br />
+
+ Requested By: 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader, Dedicated Server' />
+            <a href="/demovibes/user/djrandom/" title="Staff" >djrandom</a>
+        </span>
+    <br />
+
+ 
+ 
+  Production Labels: <img alt="Label" class="label_icon" src="/static/media/labels/icons/60050_128318673886782_127434497308533_177989_1607699_n.gif" /><a href="/demovibes/label/206/">BitMasters</a> <br />
+ 
+
+
+ 
+  
+ <br />
+
+ <p>Time Left: <span data-name="counter" data-sec="126" data-inc="-1">2:59</span></p>
+
+
+Rating: <span id="songrating">4.20</span> (<span id="songrating_votes">5</span> Votes)<br />

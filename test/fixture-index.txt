@@ -1,0 +1,804 @@
+<!DOCTYPE html>
+<html id="base">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <title>Welcome - CVGM.net Computer & Video Game Music</title>
+        
+        <link rel="stylesheet" href="/static/themes/base.css?9" type="text/css" />
+        <link rel="stylesheet" href="/static/themes/jquery.qtip.min.css" type="text/css" />
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js" type="text/javascript"></script>
+        <script src="/static/js/dutils.js?9" type="text/JavaScript"></script>
+        <script src="/static/js/dobject.js?7" type="text/JavaScript"></script>
+        <script src="/static/js/jquery.qtip.min.js?2" type="text/JavaScript"></script>
+        <script src="/static/js/dtabcomplete.js?1" type="text/JavaScript"></script>
+        <script src="/static/js/bbedit.js?1" type="text/JavaScript"></script>
+        <script src="/static/js/notification.js" type="text/JavaScript"></script>
+        <script src="/static/js/sort/tablesort.min.js" type="text/JavaScript"></script>
+        <script src="/static/js/sort/customsort.js" type="text/JavaScript"></script>
+        <script src="/static/js/jquery/popup.js" type="text/JavaScript"></script>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+        <link rel="icon" type="image/vnd.microsoft.icon" href="/static/favicon.ico" />
+<meta name="Description" content="CVGM - your 24/7 source of oldskool computer and demoscene music from Amiga, C64, Spectrum, NES, SNES, N64, GameCube, Genesis, Master System, Megadrive, Sega Dreamcast, GameBoy, Saturn, Playstation, Atari, and more!" />                                                   
+<meta name="Keywords" content="scenemusic, radio, stream, streaming, demovibes, demo vibes, nectarine, necta, classic, video, game, music, oldskool, computer, game, psx, sony, sega, dreamcast, megadrive, saturn, jaguar, atari, amiga, megadrive, lapl, roland, arcade, sharp,X68000,custom,lsdj,maxYMizer,lynx, gameboy, nes, snes, nintendo, ds, mario, zelda, sonic, commodore, c64, vintage, classic" />
+<meta name="robots" content="index, follow">
+        
+        <link rel="stylesheet" href="/static/themes/goat_grey/cvgm_grays.css?1.07" type="text/css" />
+    </head>
+
+    <body id="site" onload="ajaxmonitor(8386274);" onunload="ajaxmonitorabort();">
+        
+    <div id="sidebar">
+        <div id="sitemenu">
+        <h3>Welcome, Visitor!</h3>
+            
+            <ul class="menulist">
+                <li id="home"><a href="/demovibes/">Home</a></li>
+                <li id="forum"><a href="/forum/">Forum</a></li>
+                <li id="songs"><a href="/demovibes/songs/">Songs</a></li>
+                <li id="song-source"><a href="/demovibes/sources/">Song Sources</a></li>
+                <li id="song-platform"><a href="/demovibes/platforms/">Song Platforms</a></li>
+                <li id="artists"><a href="/demovibes/artists/">Artists</a></li>
+                <li id="groups"><a href="/demovibes/groups/">Groups</a></li>
+                <li id="labels"><a href="/demovibes/labels/">Labels</a></li>
+                <li id="compilations"><a href="/demovibes/compilations/">Compilations</a></li>
+                <li id="screenshots"><a href="/demovibes/screenshots/">Images</a></li>
+                <li id="licenses"><a href="/demovibes/licenses/">Licenses</a></li>
+                <li id="tagcloud"><a href="/demovibes/tags/">Tags</a></li>
+                <li id="statistics"><a href="/demovibes/statistics/">Statistics</a></li>
+                <li id="menuqueue"><a href="/demovibes/queue/">Queue</a></li>
+                <li>&nbsp;</li>
+                <li id="search"><a href="/search/">Search</a></li>
+                <li id="recent"><a href="/demovibes/recent/">New Uploads</a></li>
+            <li id="recentchanges"><a href="/demovibes/updates/">Recent Updates</a></li>
+                <li>&nbsp;</li>
+                <li id="faq"><a href="/demovibes/faq/">FAQ</a></li>
+                <li id="links"><a href="/demovibes/links/">Links</a></li>
+            <li id="chat"><a href="/demovibes/chat/">Simple Chat</a></li>
+            </ul>
+             
+        </div>
+        <div id="menuoneliner">
+            <h3>Infamous OneLiner</h3>
+            
+            <div id="oneliner" data-name="oneliner"><!-- oneliner                    -->
+<p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/fi.png' class='countryflag' alt='flag' title='Finland (fi)' />
+            <a href="/demovibes/user/serpent/" title="User" >serpent</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">05:54:39</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/gratz.gif" title=":gratz:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:27:15</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/rockon.gif" title=":rock:" />  <img src="/static/emoticons/flamethrower.gif" title=":flamethrower:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:26:56</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/flamer.gif" title=":flamer:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:21:16</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/sonic.gif" title=":sonic:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:19:52</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/guybrush_spit.gif" title=":guybrushspit:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/ru.png' class='countryflag' alt='flag' title='Russian Federation (ru), Republic of Crimea' />
+            <a href="/demovibes/user/ViThor/" title="Staff" >ViThor</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:18:11</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    Hey Ha! <img src="/static/emoticons/wave.gif" title="o/" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">21:10:14</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/dancingkid.gif" title=":crazykid:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">20:22:45</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    ViLoki <img src="/static/emoticons/wave.gif" title="o/" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/ru.png' class='countryflag' alt='flag' title='Russian Federation (ru), Republic of Crimea' />
+            <a href="/demovibes/user/ViThor/" title="Staff" >ViThor</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">20:20:10</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/cheers.gif" title=":cheers:" />
+</span>
+</p><p class="onelinermsg">
+    <span class="onelinerpre">
+        
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    
+        <span class="onelinertime">(<span class="tzinfo">20:06:37</span>)</span>
+    </span>
+    <br />
+    <span class="onelinertext">
+    <img src="/static/emoticons/toejamandearl.gif" title=":toejamandearl:" />
+</span>
+</p></div>
+
+            <a href="/demovibes/oneliner/">Oneliner History</a>
+        </div>
+
+        <div id="menuonline">
+            <h3>Who's Online?</h3>
+            <div id="whosonlinenicks">There are a total of 4 users online now:<br /><br />
+
+
+ <div id="whosonline" class="whosonline">
+    
+     
+        <span class="username">
+            <img src='/static/flags/jp.png' class='countryflag' alt='flag' title='Japan (jp)' />
+            <a href="/demovibes/user/Falken/" title="Admin" >Falken</a>
+        </span>
+    , 
+    
+     
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br), Rio de Janeiro (Currently in Brasília)' />
+            <a href="/demovibes/user/HaCKa/" title="User" >HaCKa</a>
+        </span>
+    , 
+    
+     
+        <span class="username">
+            <img src='/static/flags/fr.png' class='countryflag' alt='flag' title='France (fr)' />
+            <a href="/demovibes/user/Hneet/" title="User" >Hneet</a>
+        </span>
+    , 
+    
+     
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader' />
+            <a href="/demovibes/user/satto/" title="User" >satto</a>
+        </span>
+     
+    
+ </div>
+<br /><div id="newestuser" class="newestuser">Our Newest Members:<br />
+        <span class="username">
+            <img src='/static/flags/ar.png' class='countryflag' alt='flag' title='Argentina (ar)' />
+            <a href="/demovibes/user/WillowX37/" title="User" >WillowX37</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/fi.png' class='countryflag' alt='flag' title='Finland (fi)' />
+            <a href="/demovibes/user/duet/" title="User" >duet</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader' />
+            <a href="/demovibes/user/satto/" title="User" >satto</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/fr.png' class='countryflag' alt='flag' title='France (fr)' />
+            <a href="/demovibes/user/rakzom/" title="User" >rakzom</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/pl.png' class='countryflag' alt='flag' title='Poland (pl)' />
+            <a href="/demovibes/user/atom32k/" title="User" >atom32k</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/se.png' class='countryflag' alt='flag' title='Sweden (se)' />
+            <a href="/demovibes/user/Dynamic/" title="User" >Dynamic</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/se.png' class='countryflag' alt='flag' title='Sweden (se)' />
+            <a href="/demovibes/user/RuffeMuffe/" title="User" >RuffeMuffe</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/pl.png' class='countryflag' alt='flag' title='Poland (pl)' />
+            <a href="/demovibes/user/noninja/" title="User" >noninja</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/michaelbogart/" title="User" >michaelbogart</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/nectaflag.png' class='countryflag' alt='flag' title='nectaflag' />
+            <a href="/demovibes/user/insidhex/" title="User" >insidhex</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/archiches18/" title="User" >archiches18</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/CraigLandes/" title="User" >CraigLandes</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/nectaflag.png' class='countryflag' alt='flag' title='nectaflag' />
+            <a href="/demovibes/user/saintsovereign/" title="User" >saintsovereign</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/de.png' class='countryflag' alt='flag' title='Germany (de)' />
+            <a href="/demovibes/user/tubo/" title="User" >tubo</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/spadekevin/" title="User" >spadekevin</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/StevenBlanchard/" title="User" >StevenBlanchard</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/us.png' class='countryflag' alt='flag' title='United States (us), NY, USA' />
+            <a href="/demovibes/user/CarlosBritt/" title="User" >CarlosBritt</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/br.png' class='countryflag' alt='flag' title='Brazil (br)' />
+            <a href="/demovibes/user/daviparanagua/" title="User" >daviparanagua</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/fi.png' class='countryflag' alt='flag' title='Finland (fi)' />
+            <a href="/demovibes/user/pause/" title="User" >pause</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/vn.png' class='countryflag' alt='flag' title='Viet Nam (vn)' />
+            <a href="/demovibes/user/nbm/" title="User" >nbm</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/in.png' class='countryflag' alt='flag' title='India (in)' />
+            <a href="/demovibes/user/Garrysmith/" title="User" >Garrysmith</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/pl.png' class='countryflag' alt='flag' title='Poland (pl)' />
+            <a href="/demovibes/user/Drago5k/" title="User" >Drago5k</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader' />
+            <a href="/demovibes/user/FlashyYNT/" title="User" >FlashyYNT</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/nectaflag.png' class='countryflag' title='usa, New York' />
+            <a href="/demovibes/user/DaleFerguson/" title="User" >DaleFerguson</a>
+        </span>
+    , 
+        <span class="username">
+            <img src='/static/flags/us.png' class='countryflag' alt='flag' title='United States (us)' />
+            <a href="/demovibes/user/MikeGayle/" title="User" >MikeGayle</a>
+        </span>
+     </div>
+</div>
+        </div>
+    </div>
+
+    <div id="rightside">
+        <div id="usermenu">
+            <h3>User Menu</h3>
+            <div class="message-display-settings">Notification settings</div>
+            <ul class="menulist">
+            
+                <li id="login"><a href="/account/signin/">Log In / Register</a></li>
+            
+            
+            
+            
+            
+            </ul>
+        </div>
+
+        <div id="nowplaying">
+            <h3>Currently Playing</h3>
+            <div data-name="nowplaying">
+                
+ <span class="songname"><a href="/demovibes/platform/10/"><img alt="Utility » PC Trackers (S3M / XM / IT / ...)" class="platform_icon" src="/static/media/platform/symbol/platform_utility_pctrackers.gif" title="Utility » PC Trackers (S3M / XM / IT / ...)" /></a><a href="/demovibes/song/4618/">Men At Work</a></span> by 
+    
+    <span class="artistname">
+         <img src='/static/flags/se.png' class='countryflag' alt='flag' title='Sweden (se)' />
+        
+        <a href="/demovibes/artist/202/"
+         >
+         Tito (Johan Lars Althoff)</a>
+    </span>
+ 
+    
+<br />
+
+ Requested By: 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader, Dedicated Server' />
+            <a href="/demovibes/user/djrandom/" title="Staff" >djrandom</a>
+        </span>
+    <br />
+
+ 
+ 
+
+
+ 
+  
+ <br />
+
+ <p>Time Left: <span data-name="counter" data-sec="33" data-inc="-1">2:46</span></p>
+
+
+Rating: <span id="songrating">4.00</span> (<span id="songrating_votes">1</span> Votes)<br />
+            </div>
+            <hr style="width: 80%; background-color: #000; height: 1px; border: 0px;" />
+            <input type="button" style="border: 1px solid; border-color: #333;" value="Listen" onclick="window.open('/demovibes/play/','player','width=340,height=25,toolbar=no,scrollbars=no,resizable=no,location=no,directories=no,status=no,menubar=no,copyhistory=no')" /> - <a href="/demovibes/streams/">Streams</a>
+        </div>
+        <div id="sidebarnews">
+        
+            <div class="newsentryside">
+                <h3 class="entrytitle">Site Disclaimer</h3>
+                <div class="entrytext"><em>This site is non-profit (though donations are welcome to help pay the hosting/bandwidth fees, click the Donate button to learn about how it works). All music served by this radio station is either in the public domain, freely available on the internet (as MP3, or other original music format) or is played on a 'fair use' basis.<br />
+<br />
+If you find a song that isn't in the public domain, or you wrote a piece of music that you would like removed from the site, please contact one of our team members who will be happy to help. Enjoy the music!</em><br /><br />
+</div>
+            </div>
+        
+            <div class="newsentryside">
+                <h3 class="entrytitle">Meet The Dream Team</h3>
+                <div class="entrytext"><center>
+Site Coder/Maintainer:<br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/us.png" /><a href="http://www.cvgm.net/demovibes/user/FishGuy876/">FishGuy876</a> - Admin, Code<br />
+<br />
+<b><u>The Dream Team:</u></b><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/us.png" /><a href="http://www.cvgm.net/demovibes/user/FishGuy876/">FishGuy876</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/se.png" /><a href="http://www.cvgm.net/demovibes/user/Stefan_L/">Stefan_L</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/gb.png" /><a href="http://www.cvgm.net/demovibes/user/Koli/">Koli</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/pt.png" /><a href="http://www.cvgm.net/demovibes/user/jyooruje/">jyooruje</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/ru.png" /><a href="http://www.cvgm.net/demovibes/user/ViThor/">ViThor</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/fi.png" /><a href="http://www.cvgm.net/demovibes/user/Neutral/">Neutral</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/jp.png" /><a href="http://www.cvgm.net/demovibes/user/Falken/">Falken</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/ca.png" /><a href="http://www.cvgm.net/demovibes/user/starpilot/">StarPilot</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/goat.png" /><a href="http://www.cvgm.net/demovibes/user/Goatfather/">Goatfather</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/us.png" /><a href="http://www.cvgm.net/demovibes/user/DarkWolf/">DarkWolf</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/beer.png" /><a href="http://www.cvgm.net/demovibes/user/vanward/">vanward</a><br />
+<img class="countryflag" src="http://www.cvgm.net/static/flags/jp.png" /><a href="http://www.cvgm.net/demovibes/user/MAT/">MAT</a><br />
+And our ninja moderators...<br>
+<img src="http://www.cvgm.net/static/emoticons/ninja.gif"><br />
+<b><u>Extra Resources:</u></b><br />
+<a href="http://www.twitter.com/cvgm_radio" target="_new"><img src="/static/twitter-icon.png" title="CVGM_Radio on Twitter" border="0" /> CVGM_Radio on Twitter</a><br />
+<a href="http://bit.ly/aEQ4gx" target="_new"><img src="/static/facebook-icon.png" title="CVGM on Facebook" border="0" /> CVGM on Facebook</a><br />
+<br />
+<b><u>Popular Forum Topics:</b></u><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/125/">Donating to CVGM</a><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/3/">BBCodes For Forum & Oneliner</a><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/2/">OneLiner / Forum Smilies</a><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/45/">Introduce Yourself!</a><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/56/">Never Received CVGM Activation Email</a><br />
+<img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/52/">Official Upload FAQ</a><br />
+<br />
+Please donate to our Beer/Atari Fund if you like our site:<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="PTSDPD5X87UTG">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</center></div>
+            </div>
+        
+        </div>
+    </div>
+
+    <div id="main">
+        <h1 id="mainheader">CVGM.net Computer & Video Game Music</h1>
+        <div id="mainlogo"><img id="logo" src="/static/media/logos/24h1.gif" title="#36 - By starpilot cvgm #10" alt="#36 - By starpilot cvgm #10" /></div>
+
+        <div style="overflow:auto" id="maincontent" class="newspage">
+            
+<div id="newslist">
+
+ 
+  <div class="newsentry newsentrystatic">
+   <h2><img class="icon_header" src="http://www.cvgm.net/static/flags/invader.png" alt="" /><span class="headline"> Welcome To CVGM!</span></h2>
+   <div class="newstext">Welcome to CVGM, your home for video game, demo scene and computer related music. We stream 24 hours a day, 7 days a week, 365 days a year for your listening pleasure! This site is devoted to the men and women who devote their time creating some of the best music available in the world!<br /><br />You can immediately begin listening to the music by heading over to the <a href="http://www.cvgm.net/demovibes/streams/">Audio Streams</a> page, and selecting a stream that's best for you. We have several different streams to choose from. Alternatively, you can click "Listen" in your browser and select one of the streams from the list to listen directly in your browser!<br /><br />If you haven't done so already, please register on the site. It's quick, and doing so will enable you to do many new things including:<br /><br /><ul><li>Personal Favourites List</li><li>Request songs to be played on the stream.</li><li>Chat with other members in the OneLiner</li><li>Vote for songs you like/dislike the most.</li><li>Create new artists and groups that don't yet exist.</li><li>Upload songs not currently on the site.</li><li>Make corrections to existing songs.</li><li>Send messages to other members of the site.</li><li>Post on our forums, comment on songs, and lot's more!.</li></ul><br /><br />To familiarize yourself with the many features of the site, we have posted <a href="/forum/thread/44/"><img src="/static/newspaper.png" alt="forum" border="0" /> Getting Started With CVGM</a> to help get you started!<br /><br />We hope you enjoy your stay on our site! If you have any questions or comments, you can post on our forums, ask in the OneLiner, or send a message to any moderator/admin or email us at demovibes [at] cvgm.net!<br /><br />To see some of the new albums/song sets uploaded to CVGM, see <img src="/static/newspaper.png" alt="forum" border="0"><a href="/forum/thread/84/">Recently Added Albums/Compilations</a>. You can also see all the most recent <a href="/demovibes/recent/">Individual Song Uploads</a>.<br /><br />FishGuy876 & The CVGM Dream Team</div>
+  </div>
+ 
+
+ 
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> DemoSplash 2015 - CVGM Will Be There!</span> <span class="date">
+ 
+ 17 Oct. 2015
+ 
+ <span class="tzinfo">18:19</span>
+
+</span></h2>
+   <div class="newstext"><img src="http://www.cvgm.net/static/media/misc/demosplash.png" align="left" border="4">CVGM will be at <a href="http://www.demosplash.org/" target="_none">DemoSplash 2015</a> this year. Demosplash 2015 will be held 6-7 November 2015 at Carnegie Mellon University in Pittsburgh, PA, USA. Demosplash is one of the largest demoparties in North America, catering both to newcomers to the demoscene as well as established artists.<br><br /><br />If you are going to attend, let us know in the oneliner! FishGuy876 will be present to say hi, and have a few beers :)<br></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> New Atari EP by Ultrasyd - Chipsters</span> <span class="date">
+ 
+ 24 Oct. 2014
+ 
+ <span class="tzinfo">23:26</span>
+
+</span></h2>
+   <div class="newstext"><a href="https://bleepstreet.bandcamp.com/album/chipsters-ep" target="_new"><img src="http://www.cvgm.net/static/media/misc/chipsters.jpg" height="200" align="left"></a>Discover the world of Ultrasyd on this 6-track EP packed with the most ultra-hip sound ever heard on the AtariST home-computer. It’s that good. We promise. <br /><br />As a member of Brainstorm, Ultrasyd has collected some credits over the last years as a demoscener with his high quality Atari and Amstrad CPC releases. On this first EP, Ultrasyd shows us his latest tricks and mad-skills funkatising the squarewave only YM2149 soundchip, it’s so fat that we had to ask a few times if this is a pure AtariST recording! <br /><br />The music is full of lovely and positive Demo-vibes, it’s the perfect EDM for the LOLKids and it features some of the coolest Atari Space-Reggae we have ever heard!<br /><br /><a href="https://bleepstreet.bandcamp.com/album/chipsters-ep" target="_new">https://bleepstreet.bandcamp.com/album/chipsters-ep</a></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Server Changes Are Now Complete!</span> <span class="date">
+ 
+ 25 April 2014
+ 
+ <span class="tzinfo">23:03</span>
+
+</span></h2>
+   <div class="newstext">Its been a while since we posted any news about whats been going on with the site, so I thought I would just give a bit of an update to everyone about where things are. <br /><br />We have completed the migration to the new VMWare server. This is a server that was purchased as an upgrade to the existing CVGM servers, and to give us the expandability we may need in the future as the site grows bigger. In the beginning, CVGM consisted of 2 servers, an ancient Xeon server with 2gb of ram to run the Python code, and an even more ancient AMD dual core server to handle the streams. When these boxes started to break down (they were leased from the datacenter we use) we ended up purchasing our own hardware, with the help of several donations to the site from our awesome listeners.<br /><br />The new server has 8 3.16Ghz cores and 16gb of ram. It also allows us to split up the resources a little better, so the streams can now have their own little server etc. All good things :) For more details on the technical changes to the site, you can read up on one of these forum threads:<br /><br /><img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/238/">New Server Changes</a><br /><img src="/static/newspaper.png" alt="forum" border="0" /> <a href="/forum/thread/239/">New Icecast Streams!</a><br /><br />As always, if you have any questions or concerns, feel free to jump on the oneliner and ask, or post a message in the forums. Thanks!<br /><br />FishGuy876<br /></div>
+  </div>
+ 
+
+
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Mark 'TDK' Knight - Reawakening Album Release!</span> <span class="date">
+ 
+ 18 Nov. 2012
+ 
+ <span class="tzinfo">13:27</span>
+
+</span></h2>
+   <div class="newstext"><a href="http://www.facebook.com/events/119598261532502/" target="_blank"><img src="http://www.cvgm.net/static/media/misc/Reawakening.jpg" align="left"></a><br />Mark "TDK/MadFiddler" Knight is making his big return to the chiptune world with a brand new album titled "Reawakening" Join him, Obtuse, & Hoodie on 8BPH for a night of chat, ridiculousness, & a first listen to this *KILLER* chipalbum! You won't want to miss this! Some taster bits can be found on Mark's soundCloud page at <a href="http://soundcloud.com/marktdkknight" target="_blank">http://soundcloud.com/marktdkknight</a><br /><br />See the official Facebook event page by clicking <a href="http://www.facebook.com/events/119598261532502/" target="_blank">Here</a>.<br /><br />The launch will be held at 3pm on December 9th, 2012. Tune in to the stream using the links on the Facebook page.</div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> New Changes!</span> <span class="date">
+ 
+ 3 Oct. 2012
+ 
+ <span class="tzinfo">16:01</span>
+
+</span></h2>
+   <div class="newstext">Some of you may have noticed that CVGM has made some pretty big changes! Read up more on the changes in the code at <a href="http://www.cvgm.net/forum/thread/181/">This Forum Post</a>.</div>
+  </div>
+ 
+
+
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> CVGM Is Upgrading Servers</span> <span class="date">
+ 
+ 23 March 2012
+ 
+ <span class="tzinfo">16:11</span>
+
+</span></h2>
+   <div class="newstext">CVGM is in the process of building a new dedicated server box. This is a brand new server that we are building and will be hosted at our datacenter. The new server will have much newer hardware in it than the servers we currently rent. We are accepting donations for this via ChipIn and you can donate to the upgrade using the buttons below. To learn more about the upgrade, and discuss it further you can see our forum post about it at <a href="/forum/thread/155/"><img src="/static/newspaper.png" alt="forum" border="0" /> New CVGM Server Purchase</a><br /><br /><object width="250" height="250"><param name="movie" value="http://widget.chipin.com/widget/id/282374e9f8dd904e"></param><param name="allowScriptAccess" value="always"></param><param name="wmode" value="transparent"></param><embed src="http://widget.chipin.com/widget/id/282374e9f8dd904e" flashVars="" type="application/x-shockwave-flash" allowScriptAccess="always" wmode="transparent" width="250" height="250"></embed></object></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="http://www.cvgm.net/static/media/platform/symbol/gameboy.png" alt="" /><span class="headline"> Obsoleet Microparty @ Mulhouse (France)</span> <span class="date">
+ 
+ 26 Jan. 2012
+ 
+ <span class="tzinfo">12:56</span>
+
+</span></h2>
+   <div class="newstext"><img src="http://www.cvgm.net/static/media/misc/events/affiche.png" alt="" /><br /><br />Party Website: <a href="http://microparty.free.fr/" target="_blank">http://microparty.free.fr/</a><br />Facebook Page: <a href="https://www.facebook.com/events/352227054806070/" target="_blank">https://www.facebook.com/events/352227054806070/</a><br /><br />Chiptune / 8bit / LoFi party in Mulhouse, France on Saturday March 3rd ! Featuring performances from:<br /> <br />· Je Deviens DJ en 3 Jours [FR] <br />· Xyce = Xylo + Cerror [NL] <br />· Bacalao [CH] <br />· Ultrasyd [FR] <br /><br />Be there!! Discussion page & more details available on CVGM at <a href="/forum/thread/149/"><img src="/static/newspaper.png" alt="forum" border="0" /> Obsoleet Microparty @ Mulhouse [FR]</a><br /></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> CVGM.net Will Be Offline Jan. 18th To Protest SOPA</span> <span class="date">
+ 
+ 15 Jan. 2012
+ 
+ <span class="tzinfo">18:06</span>
+
+</span></h2>
+   <div class="newstext">To protest the ongoing SOPA act in the US (Stop Online Piracy Act) we will be shutting down the site and it's streams for 24 hours, along with tens of thousands of other websites in the US who also do not want the bill passing.<br /><br />I have set up a thread on the forums about this, feel free to read the included links to learn more about SOPA and what you can do as an individual to stop it from passing:  <a href="/forum/thread/148/"><img src="/static/newspaper.png" alt="forum" border="0" /> CVGM.net Will go Dark On Jan. 18th To Protest SOPA</a><br /><br />If the law passes, sites like CVGM and about 95% of the worlds web radio stations will disapear from the airwaves.<br /><br />FishGuy876</div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Happy Holidays!</span> <span class="date">
+ 
+ 22 Dec. 2011
+ 
+ <span class="tzinfo">12:19</span>
+
+</span></h2>
+   <div class="newstext">From myself & the staff at CVGM, we would like to wish you and your family a very happy holiday! We will be up and running over the christmas period as usual, so if you get bored of eating too much turkey & beer, drop by and say hi! <br /><br />So, have a happy holiday from our goat family to yours!<br /><br /><img src="http://www.cvgm.net/static/media/misc/MerryGoatmas.jpg"></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> This Weekend Is Evoke - You Should!</span> <span class="date">
+ 
+ 12 Aug. 2011
+ 
+ <span class="tzinfo">07:37</span>
+
+</span></h2>
+   <div class="newstext">This weekend is Evoke - The main party of the year attended by Brainstorm members (moreso then the other parties of the year). Please join us in supporting our fellow goat friends in the competitions this weekend!<br /><br />As more information is released such as stream links, we will add it here. The only confirmed sources right now will be the live audio from SceneSat, hosted by Ziphoid (also of Brainstorm!).<br /><br />Good luck this weekend guys, and please have lots of beers for me!!<br />FishGuy876</div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Moving To New Server</span> <span class="date">
+ 
+ 25 June 2011
+ 
+ <span class="tzinfo">12:29</span>
+
+</span></h2>
+   <div class="newstext">Hi,<br /><br />Some time over this weekend, CVGM will be moving to a new, bigger and better server. This new server will give us double the ram, triple the CPU power, and a host of other excellent things. If you find later that you can't connect to the site, try back a little later and everything should be back to normal :)<br /><br />We only have a short period of time for moving data between the 2 servers, so I apologize for the downtime that may occur ahead of time. I will post more in the forums as it becomes available.<br /><br />Thanks!  FishGuy876</div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> PixelDance 2011 - Duffy's Tavern, Toronto, Canada - July 2nd, 2011</span> <span class="date">
+ 
+ 12 June 2011
+ 
+ <span class="tzinfo">07:46</span>
+
+</span></h2>
+   <div class="newstext"><img src="http://www.cvgm.net/static/media/misc/events/pixeldance2011.jpg" align="left">Duffy's Tavern and Bitmasters Netlabel are bringing you Toronto's very first and ONLY monthly 8-bit music event on Saturday July 2nd, 2011!<br /><br />This 19+ event will feature videogame-inspired tunes, crazy pixelated visuals provided by none other than CHIP RAMBO, and classic Nintendo games for all audience members to play to give you a big hit of nostalgia you won't soon forget. <br /><br />So, bring 5 bucks and come get your tunes on! Chiptunes, that is!<br /><br />The night of 8-bit madness will feature:<br /><br />DJ FINISH HIM<br />Oxvylu - <a href="http://www.oxvylu.com/" target="_new">http://www.oxvylu.com/</a><br />DJ Eastern Blok - <a href="http://www.facebook.com/djeasternblok" target="_new">http://www.facebook.com/djeasternblok</a><br />jefftheworld - <a href="http://www.jefftheworld.com/" target="_new">http://www.jefftheworld.com/</a><br />Starpilot - <a href="http://starpilot.bandcamp.com/" target="_new">http://starpilot.bandcamp.com/</a><br />DEADBEATBLAST - <a href="http://www.deadbeatblast.com/" target="_new">http://www.deadbeatblast.com/</a><br /><br />Presented by Bitmasters Netlabel. For free music and more, check out <a href="http://www.bitmasters-netlabel.com/" target=_new">http://www.bitmasters-netlabel.com/</a><br /><br />Facebook Event: <a href="https://www.facebook.com/ical/event.php?eid=188510551200768" target="_new">https://www.facebook.com/ical/event.php?eid=188510551200768</a><br /></div>
+  </div>
+ 
+
+
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Blip Festival 2011 - New York 05-19 - 05-21 @ Eyebeam</span> <span class="date">
+ 
+ 15 April 2011
+ 
+ <span class="tzinfo">15:20</span>
+
+</span></h2>
+   <div class="newstext">Blip Festival 2011 is coming up on us fast! CVGM will be attending the festival this year, and we openly invite everyone with an interest in chip music to attend! Our very own Ultrasyd will be doing his very first live show, and I will be right there in the front row showing my support! Some of the artists also  performing live at the festival include: <br /><br />A.M.U<br />Anamanaguchi<br />BEASTMODE<br />Bit Shifter<br />Chipzel<br />cTrix<br />exileFaker<br />Henry Homesweet<br />M7Kenji<br />NNNNNNNNNN<br />NO CARRIER<br />Noisewaves<br />Nullsleep<br />Party Time! Hexcellent!<br />Peter Swimm<br />Stagediver<br />Talk To Animals<br />Ten Thousand Free Men & Their Families<br />Tristan Perich<br />Ultrasyd<br />Wet Mango<br />Zen Albatross<br /><br />With even more to be announced :)<br /><br />Complimenting the nighttime performances are an dazzling array of daytime workshops, lectures, and demonstrations that illustrate the openness and encouragement that are hallmarks of the chip community. More often than not, a fan can attend Blip, discover their new favorite artists, and obtain the tools needed to start working on their own music when they return home, something many of this years performers know all too well!<br /><br />Some Important Links:<br /><br />BLIP FESTIVAL NEW YORK 2011<br />Fifth Anniversary Edition<br /><br />May 19-21 2011 · at Eyebeam<br />540 West 21st Street<br />New York NY 10011 US<br />map: <a href="http://goo.gl/ju6DT" target="_new">http://goo.gl/ju6DT</a><br /><br /><a href="http://www.blipfestival.org" target="_new">http://www.blipfestival.org</a><br /><a href="http://twitter.com/blipfestival" target="_new">http://twitter.com/blipfestival</a><br /><a href="http://www.eyebeam.org" target="_new">http://www.eyebeam.org</a><br /><a href="https://www.facebook.com/event.php?eid=105798896165311" target="_new">https://www.facebook.com/event.php?eid=105798896165311</a><br /></div>
+  </div>
+ 
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Our Thoughts & Prayers To The People Of Japan</span> <span class="date">
+ 
+ 14 March 2011
+ 
+ <span class="tzinfo">12:16</span>
+
+</span></h2>
+   <div class="newstext">Our thoughts &amp; prayers go out to those people in Japan who have been affected by the huge earthquake and giant Tsunami floods. After watching the events of Friday unfold in front of my eyes on the BBC live coverage, the swift speed of the floods and the damage that they caused is just mind-blowing. I am hoping the country can get back on it's feet very soon.<br /><br />Many charities and organizations around the world are setting up donation pages. Don't be scammed! Unfortunately, the world is full of people who are willing to take advantage of people wishing to help others in such a time of crisis. If making a donation, be sure you know about the charity first (we recommend the <a href="https://american.redcross.org/site/Donation2?idb=0&amp;5052.donation=form1&amp;df_id=5052" target="_blank">Red Cross</a> or <a href="http://www.worldvision.org/worldvision/eappeal.nsf/donation-item?Open&amp;amt=50&amp;num=371&amp;campaign=113655219&amp;cmp=KNC-113655219" target="_blank">World Vision</a> charities).<br /><br />Japan has a lot of work to do yet; They are still facing more widespread problems with their nuclear reactors becoming unstable, many people are yet to be found and there are millions of homes that need to be rebuilt. The world should unite at times like this to help those desperately in need.</div>
+  </div>
+ 
+
+
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> Friday Night Is Session Night!</span> <span class="date">
+ 
+ 16 Feb. 2011
+ 
+ <span class="tzinfo">08:58</span>
+
+</span></h2>
+   <div class="newstext">Every Friday night we plan to launch a session or 2 on CVGM. This Friday will be a monster Amiga session. More information located at <a href="http://www.cvgm.net/forum/thread/114/" target="_blank">http://www.cvgm.net/forum/thread/114/</a> Feel free to post your own suggestions for your favourite Amiga songs to add to the playlist!<br /><br />This thread will be used to post info regarding future sessions as well, so make any suggestions you like to hear :)</div>
+  </div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="newsentry">
+   <h2><img class="icon_header" src="/static/newspaper.png" alt="" /><span class="headline"> New EP By Xerxes - 226 B.C.</span> <span class="date">
+ 
+ 16 Nov. 2010
+ 
+ <span class="tzinfo">07:35</span>
+
+</span></h2>
+   <div class="newstext">The new E.P. by Xerxes has been released - 226 BC. This 3-track EP (with a 4th bonus track) is a very relaxing listen. Definitely worth a listen. <a href="http://xerxes-music.com/album/226-b-c" target="_new">Purchase from the author's BandCamp site for just $3</a> or listen from the page.<br /><br /><i>"Finally I get to present some new music. They are quite different in style, yet they connect on some level. I have tried to explore different moods within the chillout genre without leaving out the usual Xerxes sound. These tracks are exclusive for this EP, and none of them will be duplicated on the forthcoming full length album. Hope you find them enjoyable. Massive thanks to Mogens Skjold for the stunning artwork."</i></div>
+  </div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+        </div>
+        <div id="footer">
+        <span id="copyleft">
+		Powered by <a href="http://code.google.com/p/demovibes-cvgm/">Demovibes-CVGM</a><br />
+                CVGM is moderated by Andy 'FishGuy876' Kellett of <a href="http://brainstorm.untergrund.net" target="_new"><img class="group_icon" src="/static/media/groups/icons/brainstorm_icon.png" />Brainstorm</a> and is maintained by the music community. (c) 2009-2014 All Rights Reserved. <a href="mailto:demovibes@cvgm.net">Contact Us!</a><br />
+                All music featured on this site remains 100% the copyright of the original artist/publisher. Please report all site errors, omissions and corrections <a href="http://www.cvgm.net/forum/thread/85/">Here</a>.<br />
+	    </span>
+        <span id="copyright">
+        layout: <a href="http://raina.daug.net/">raina</a>,
+        icons: <a href="http://www.famfamfam.com/"><span style="color: #f15;">fam</span><span style="color: #1cf;">fam</span><span style="color: #bf3;">fam</span></a>
+        </span>
+    </div>
+    </div>
+
+<script>
+    STATIC_URL = "/static/";
+</script>
+
+        <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10962821-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </body>
+</html>

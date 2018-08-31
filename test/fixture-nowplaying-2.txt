@@ -1,0 +1,36 @@
+<!-- nowplaying                    -->
+
+ <span class="songname"><a href="/demovibes/platform/97/"><img alt="Computer » PC (Windows - streaming and other)" class="platform_icon" src="/static/media/platform/symbol/platform_computer_pcstreamingwindowsgame.gif" title="Computer » PC (Windows - streaming and other)" /></a><a href="/demovibes/song/22049/">Streets of Rage Remake - Beat Ambience</a></span> by 
+    
+    <span class="artistname">
+         <img src='/static/flags/gb.png' class='countryflag' alt='flag' title='United Kingdom (gb), Scunthorpe' />
+        
+        <a href="/demovibes/artist/2380/"
+         >
+         Groovemaster303 (David Burton)</a>
+    </span>
+ 
+    
+<br />
+
+ Requested By: 
+        <span class="username">
+            <img src='/static/flags/invader.png' class='countryflag' alt='flag' title='invader, Dedicated Server' />
+            <a href="/demovibes/user/djrandom/" title="Staff" >djrandom</a>
+        </span>
+    <br />
+
+ 
+ 
+
+
+ 
+  
+        <a href="http://www.cvgm.net/demovibes/tags/StreetsOfRageRemake/" target="_blank"><img class="song-resource" alt="Icon" src="/static/media/linkicons/joystick.gif" title="[Game Name]" /></a>
+    
+ <br />
+
+ <p>Time Left: <span data-name="counter" data-sec="67" data-inc="-1">2:47</span></p>
+
+
+Rating: <span id="songrating">4.50</span> (<span id="songrating_votes">10</span> Votes)<br />
